@@ -23,7 +23,7 @@ const Feed = () => {
         <Sidebar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory}/>
 
         <Typography className='copyright' variant="body2" sx={{ mt: 1.5, color: '#fff'}}>
-          Copyright 2022 Petru Torac
+          Copyright 2023 Petru Torac
         </Typography>
 
       </Box>
